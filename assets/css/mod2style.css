@@ -1,0 +1,90 @@
+.body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(1, 1, 42);
+}
+.Name {
+    color: goldenrod;
+    font-size: 18px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    font-weight: 600;
+    font-style: italic;
+    font-display: right align;
+    background-color: purple; opacity: 60;
+}
+
+.subheader{
+    color: black;
+    border: none;
+    background: none;
+    font-size: 14px;
+    font-display: center;
+}
+
+.face{
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(87, 14, 156);
+    margin-left: 10px;
+}
+.bottons{
+    background-color: goldenrod;
+    color:rgb(1, 1, 42) ;
+    border-radius: 4px;
+    border-style: solid;
+}
+.about{
+    color: goldenrod;
+    font-weight: 400;
+    font-style: underline;
+    font-size: 14px;
+}
+.summary{
+    font-size: 12px;
+    color: white;
+    border: none;
+    background-color: none;
+    padding: 15px;
+}
+.propose{
+    color: goldenrod;
+    font-weight: 400;
+    font-style: underline;
+    font-size: 14px;
+}
+.projects{
+    color: white;
+    padding: 10px;
+    bullet-style:box
+
+}
+.goals{
+    color: goldenrod;
+    font-weight: 400;
+    font-style: underline;
+    font-size: 14px;
+}
+.intent{
+    font-size: 12px;
+    color: white;
+    border: none;
+    background-color: none;
+    padding: 15px;
+}
+.contact{
+    color: goldenrod;
+    font-weight: 400;
+    font-style: underline;
+    font-size: 14px;
+}
+.links{
+    color: goldenrod;
+    font-weight: 400;
+    font-style: underline;
+    font-size: 14px;
+}
+.disclamer{
+    font-size: 10px;
+    color: blueviolet;
+}

@@ -1,0 +1,41 @@
+module 2 
+
+utopian image:
+https://i.pinimg.com/originals/44/a2/84/44a284766726a64524bb25239e7ac415.jpg
+
+microchip:
+<img src="https://www.nextplatform.com/wp-content/uploads/2020/11/shutterstock_515152267-1030x438.jpg" alt="" title="shutterstock_515152267">
+
+android:<img width="882" height="568" src="https://www.latentview.com/wp-content/uploads/2021/03/the-rise-of-humanoid-robots.jpg" class="attachment-large size-large wp-image-16049 entered lazyloaded" alt="the rise of humanoid robots" data-lazy-src="https://www.latentview.com/wp-content/uploads/2021/03/the-rise-of-humanoid-robots.jpg" data-ll-status="loaded">
+
+Robot 2:
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/The_Future_of_Robotics.jpg" content="max-image-preview:standard" alt="The Future of Robotics: How Robots Will Transform Our Lives" title="The Future of Robotics: How Robots Will Transform Our Lives" width="375" height="211" fetchpriority="high">
+
+profile picture:
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/109989101_3134647199958773_178824786380039376_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=O_KB0BfSzCAAX-tG8SZ&amp;_nc_ht=scontent-lax3-2.xx&amp;oh=00_AfALk5PKRyjZoDnf0waCt8Gl85-xJk9dEkazjOBuGbsJ2w&amp;oe=641397D7" width="129" height="172">
+
+idea image 
+<img src="https://assets.entrepreneur.com/content/3x2/2000/20180128135931-shutterstock-466715522.jpeg" class="z-0 w-full false rounded-lg shadow mx-auto mainheroimage" width="675" height="380" role="presentation">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
